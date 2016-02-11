@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ccrispisalustii02sallgoog_0304.png"; bbox 0 0 4542 5318; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 540 1861 1361 2124">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 540 1861 1361 2124">
+     <span class='ocr_line' id='line_1_1' title="bbox 540 1861 1361 1953; baseline 0.002 -5"><span class='ocrx_word' id='word_1_1' title='bbox 540 1861 1066 1952; x_wconf 88' lang='lat' dir='ltr'><strong>EPISTOLAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1118 1863 1361 1953; x_wconf 90' lang='lat' dir='ltr'><strong>DUAE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 917 2058 977 2124; baseline -0.033 0"><span class='ocrx_word' id='word_1_3' title='bbox 917 2058 977 2124; x_wconf 72' lang='lat' dir='ltr'><strong>An</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 490 2182 1414 2376">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 490 2182 1414 2376">
+     <span class='ocr_line' id='line_1_3' title="bbox 490 2182 1414 2376; baseline 0.001 -4"><span class='ocrx_word' id='word_1_4' title='bbox 490 2182 1414 2376; x_wconf 61' lang='lat' dir='ltr'><strong>OGAESAREM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 927 2497 983 2550">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 927 2497 983 2550">
+     <span class='ocr_line' id='line_1_4' title="bbox 927 2497 983 2550; baseline 0.071 -4"><span class='ocrx_word' id='word_1_5' title='bbox 927 2497 983 2550; x_wconf 75' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 609 2663 1301 2750">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 609 2663 1301 2750">
+     <span class='ocr_line' id='line_1_5' title="bbox 609 2663 1301 2750; baseline 0.012 -7"><span class='ocrx_word' id='word_1_6' title='bbox 609 2663 925 2748; x_wconf 74' lang='lat' dir='ltr'><strong>REPUBLIGA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 950 2668 1301 2750; x_wconf 78' lang='lat' dir='ltr'><strong>ORDINANDA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2276 5318">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2276 5318">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2276 5318; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2276 5318; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
